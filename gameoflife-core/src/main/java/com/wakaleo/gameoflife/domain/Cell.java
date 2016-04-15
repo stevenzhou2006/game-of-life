@@ -12,7 +12,7 @@ public enum Cell {
 
     @Override
     public String toString() {
-        a return symbol;
+        return symbol + "harry adding something here";
     }
 
     static Cell fromSymbol(final String symbol) {
