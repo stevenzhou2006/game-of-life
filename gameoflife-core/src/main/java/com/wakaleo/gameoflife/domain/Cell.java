@@ -1,4 +1,4 @@
-!!! harry break
+//!!! harry break, is now fixed
 package com.wakaleo.gameoflife.domain;
 
 public enum Cell {
