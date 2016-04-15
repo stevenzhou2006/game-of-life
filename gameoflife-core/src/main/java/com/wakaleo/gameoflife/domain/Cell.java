@@ -1,4 +1,4 @@
-//!!! fixed
+//!!! fixed sally checked in
 package com.wakaleo.gameoflife.domain;
 
 public enum Cell {
