@@ -1,4 +1,4 @@
-//!!! harry break, is now fixed
+//!!! harry break, is now fixed, change by Sally again
 package com.wakaleo.gameoflife.domain;
 
 public enum Cell {
@@ -12,7 +12,7 @@ public enum Cell {
 
     @Override
     public String toString() {
-        return symbol + "testing";
+        return symbol + "testing, test";
     }
 
     static Cell fromSymbol(final String symbol) {
